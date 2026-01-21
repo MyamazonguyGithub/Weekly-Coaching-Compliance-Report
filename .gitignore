@@ -1,0 +1,5 @@
+.env
+venv/
+coaching_report.csv
+test.py
+report.csv
